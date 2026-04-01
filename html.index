@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Benim Profesyonel Sitem</title>
+    <meta name="description" content="En iyi site benimki!">
+</head>
+<body style="font-family: Arial; text-align:center;">
+
+    <h1>🔥 Hoş Geldiniz</h1>
+    <p>Bu benim profesyonel web sitem</p>
+
+    <button onclick="alert('Bana ulaştın!')">
+        Bana Ulaş
+    </button>
+
+</body>
+</html>
